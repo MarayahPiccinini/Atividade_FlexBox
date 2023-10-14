@@ -1,0 +1,71 @@
+div {
+  display: flex;
+}
+.caixinha1 {
+  width: 40px;
+  height: 40px;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.caixinha2 {
+  width: 40px;
+  height: 40px;
+  background-color: darkblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.caixinha3 {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.caixinha4 {
+  width: 40px;
+  height: 40px;
+  background-color: yellow;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container2{
+    display: flex;
+justify-content: end;
+}
+.container3{
+display: flex;
+justify-content: center;
+
+}
+.container4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container5{
+    display: flex ;
+    justify-content: space-around;
+}
+.container6{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container-exercicioB{
+display: flex;
+flex-direction: column-reverse;
+}
+.container-desafio{
+    display: flex;
+ flex-direction:row-reverse;
+ justify-content: left;
+}
+
